@@ -21,4 +21,5 @@ contract ZombieFactory {
         return rand % dnaModulus;
     }
 
+    // simple change!
 }
